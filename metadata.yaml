@@ -1,0 +1,43 @@
+_repo: Featherland--How-the-Birds-lived-at-Greenlawn_21310
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Keyl, Friedrich Wilhelm
+    aliases:
+    - Keyl, F. W. (Friedrich Wilhelm)
+    - Keyl, Frederich Wilhelm
+    birthdate: 1823
+    deathdate: 1871
+    gutenberg_agent_id: '9845'
+    url: http://www.gutenberg.org/2009/agents/9845
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. Manville (George Manville)
+    - Fenn, G. M. (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+title: 'Featherland: How the Birds lived at Greenlawn'
+url: http://www.gutenberg.org/ebooks/21310
